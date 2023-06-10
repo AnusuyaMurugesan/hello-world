@@ -1,4 +1,4 @@
-name: 01-first-pipeline
+name: my-first-pipeline
 
 on: workflow_dispatch
 
